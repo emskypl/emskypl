@@ -20,5 +20,5 @@
 
 ### Contact with Me
 
-kontakt@mateusznogaj.pl
+contact@mateusznogaj.pl
 <!-- ### My projects --!>
