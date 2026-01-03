@@ -2,11 +2,6 @@
 
 # Hello
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/mateusz-nogaj/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <h3>I'm Mateusz</h3>
 <h4>My goal is to create applications that have positive value</h3>
 
