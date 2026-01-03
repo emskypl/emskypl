@@ -3,8 +3,8 @@
 
 ### I'm software engineer
 
-- My goal is to create applications that have positive value
-- Currently I’m working on an application for personal health improvement and tracking.</p>
+- My goal is to create applications that have positive value.
+- I am currently working on an app that will be used to monitor and improve health habits.
 
 ### Tech stack
 
@@ -20,4 +20,5 @@
 
 ### Contact with Me
 
+kontakt@mateusznogaj.pl
 <!-- ### My projects --!>
